@@ -71,4 +71,4 @@ func main() {
 
 * Gönderilen resmin dosya yolu ve formatı doğru olmalıdır.
 
-* Sunucuya istekler belirli aralıklarla yapılır, bu yüzden çözüm süresi biraz zaman alabilir.
+* Sunucuya istekler belirli aralıklarla yapılır, bu yüzden çözüm süresi biraz zaman (genellikle 5-10 saniye) alabilir.
