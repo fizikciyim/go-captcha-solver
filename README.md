@@ -64,3 +64,11 @@ func main() {
 * 2Captcha servisi üzerinden çözüm sonucunu alır.
 
 * Basit ve kullanımı kolay.
+
+## Dikkat Edilmesi Gerekenler
+
+* 2Captcha servisi ücretli olabilir, API anahtarınızı güvenli tutun.
+
+* Gönderilen resmin dosya yolu ve formatı doğru olmalıdır.
+
+* Sunucuya istekler belirli aralıklarla yapılır, bu yüzden çözüm süresi biraz zaman alabilir.
